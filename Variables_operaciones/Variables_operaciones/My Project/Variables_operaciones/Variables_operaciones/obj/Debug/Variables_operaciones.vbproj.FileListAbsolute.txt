@@ -1,0 +1,14 @@
+c:\users\rodrigo\documents\visual studio 2015\Projects\Variables_operaciones\Variables_operaciones\bin\Debug\Variables_operaciones.exe.config
+c:\users\rodrigo\documents\visual studio 2015\Projects\Variables_operaciones\Variables_operaciones\bin\Debug\Variables_operaciones.exe
+c:\users\rodrigo\documents\visual studio 2015\Projects\Variables_operaciones\Variables_operaciones\bin\Debug\Variables_operaciones.pdb
+c:\users\rodrigo\documents\visual studio 2015\Projects\Variables_operaciones\Variables_operaciones\bin\Debug\Variables_operaciones.xml
+c:\users\rodrigo\documents\visual studio 2015\Projects\Variables_operaciones\Variables_operaciones\obj\Debug\Variables_operaciones.vbprojResolveAssemblyReference.cache
+c:\users\rodrigo\documents\visual studio 2015\Projects\Variables_operaciones\Variables_operaciones\obj\Debug\Variables_operaciones.Resources.resources
+c:\users\rodrigo\documents\visual studio 2015\Projects\Variables_operaciones\Variables_operaciones\obj\Debug\Variables_operaciones.vbproj.GenerateResource.Cache
+c:\users\rodrigo\documents\visual studio 2015\Projects\Variables_operaciones\Variables_operaciones\obj\Debug\Variables_operaciones.exe
+c:\users\rodrigo\documents\visual studio 2015\Projects\Variables_operaciones\Variables_operaciones\obj\Debug\Variables_operaciones.xml
+c:\users\rodrigo\documents\visual studio 2015\Projects\Variables_operaciones\Variables_operaciones\obj\Debug\Variables_operaciones.pdb
+C:\Users\Rodrigo\Source\Repos\pg2-tp201-variables-operaciones-rodrigoivan18\Variables_operaciones\Variables_operaciones\My Project\Variables_operaciones\Variables_operaciones\bin\Debug\Variables_operaciones.exe.config
+C:\Users\Rodrigo\Source\Repos\pg2-tp201-variables-operaciones-rodrigoivan18\Variables_operaciones\Variables_operaciones\My Project\Variables_operaciones\Variables_operaciones\obj\Debug\Variables_operaciones.exe
+C:\Users\Rodrigo\Source\Repos\pg2-tp201-variables-operaciones-rodrigoivan18\Variables_operaciones\Variables_operaciones\My Project\Variables_operaciones\Variables_operaciones\obj\Debug\Variables_operaciones.xml
+C:\Users\Rodrigo\Source\Repos\pg2-tp201-variables-operaciones-rodrigoivan18\Variables_operaciones\Variables_operaciones\My Project\Variables_operaciones\Variables_operaciones\obj\Debug\Variables_operaciones.pdb
